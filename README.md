@@ -1,2 +1,1 @@
-# prepcourse-henry
-repositorio prueba modulo 2
+proyecto de prueba de como crear repositorio de github a escritorio 
